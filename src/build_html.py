@@ -13,7 +13,7 @@ SAGE = "#6E8062"  # kept for the UI's success/status color, no longer used in th
 DEFAULT_NAME = "TALES OF THE DALES"
 
 CURRENT_YEAR = datetime.date.today().year
-NEBULARUM_URL = "https://github.com/nebula-rum"
+NEBULARUM_URL = "https://github.com/nebula-rum/litm-campaign-backdrop"
 
 svg_markup = build_svg(DEFAULT_NAME)
 
