@@ -19,7 +19,7 @@ python3 src/build_svg.py
 python3 src/build_html.py
 ```
 
-You'll need `fonts/beaufort/medium_italic.woff2` in place first (Beaufort for LOL, from the official press kit).
+You'll need `fonts/beaufort/medium_italic.woff2` in place first (Beaufort for LOL, from the Legend in the Mist official [press kit](https://sonofoak.com/blogs/story/press-kit-for-legend-in-the-mist).
 
 ## License
 
@@ -27,6 +27,6 @@ The code and design here are MIT licensed, see [LICENSE](LICENSE). That covers t
 
 ## Copyright and trademark
 
-Copyright (c) Nebularum. Source and updates: https://github.com/nebula-rum
+Copyright (c) Nebularum. Source and updates: [https://github.com/nebula-rum/litm-campaign-backdrop](https://github.com/nebula-rum/litm-campaign-backdrop)
 
 *Legend in the Mist* is a trademark of Son of Oak Game Studio, and the Beaufort for LOL font belongs to Riot Games. This is an unofficial, fan-made tool, not affiliated with or endorsed by either, and neither the logo artwork nor the font are covered by this repo's MIT license.
